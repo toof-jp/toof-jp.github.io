@@ -1,2 +1,2 @@
 # me
-https://toof-jp.github.io/me/
+https://toof-jp.github.io
