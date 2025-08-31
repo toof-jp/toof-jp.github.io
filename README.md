@@ -3,3 +3,6 @@
 # toof-jp.github.io
 https://toof.jp  
 https://toof-jp.github.io
+
+## Notes
+- The URL `https://toof.jp/icon.png` is referenced by external services/tools. Keep this URL stable over time. If you must remove, move, or rename it, ensure the original URL continues to work (e.g., via a permanent redirect).
